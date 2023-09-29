@@ -1,0 +1,25 @@
+.layout {
+  width: 595px;
+  flex-shrink: 0;
+  border-radius: 20px;
+  background: #fff;
+  box-shadow: 3px 3px 14px 0px rgba(190, 190, 190, 0.3);
+}
+
+.headerContainer {
+  width: 595px;
+  height: 77.437px;
+  flex-shrink: 0;
+  border-radius: 20px 20px 0px 0px;
+  background: #d0f7fa;
+  padding: 26.5px 32px;
+}
+
+.header {
+  color: #000;
+  font-family: Poppins;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 114%; /* 28.5px */
+}
